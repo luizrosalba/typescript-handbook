@@ -27,10 +27,6 @@ npm install parcel
 ```
 npm install -g typescript
 tsc --init
+/// changed configs on tsconfig as required
 ```
-
-## The Basics
-
-
-
 
