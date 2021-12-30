@@ -17,11 +17,7 @@ npm install react react-dom
 npm install -D @types/react @types/react-dom 
 /// parcel 
 npm install parcel
-
 ```
-
-
-## The Basics
 
 
 
