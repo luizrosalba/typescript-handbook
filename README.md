@@ -30,7 +30,7 @@ tsc --init
 /// changed configs on tsconfig as required
 ```
 
-### The basics 
+### 001 - The basics 
 
 - Js uses runtime to figure out type which can lead to TypeErrors
 - TS alerts about type errors while coding 
