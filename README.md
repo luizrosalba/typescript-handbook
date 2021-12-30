@@ -8,6 +8,9 @@ https://www.typescriptlang.org/assets/typescript-handbook.pdf
 
 https://parceljs.org/recipes/react/
 
+
+### Parcel - React - JS 
+
 ```
 /// adding react and react-dom into your project:
 npm init
@@ -20,6 +23,11 @@ npm install parcel
 
 ```
 
+### Parcel - React - TS 
+```
+npm install -g typescript
+tsc --init
+```
 
 ## The Basics
 
